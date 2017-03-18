@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/UziTech/jasmine-unspy.png)](https://travis-ci.org/UziTech/jasmine-unspy)
-<!-- [![Windows Build Status](https://ci.appveyor.com/api/projects/status/9vlhm6tark45cyov?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-unspy) -->
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/30yaam69yeg2ka8i?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-unspy)
 
 # Jasmine Unspy
 
