@@ -3,6 +3,8 @@
 
 # Jasmine Unspy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/jasmine-unspy.svg)](https://greenkeeper.io/)
+
 This will restore the original function to a spy.
 
 ## Install
