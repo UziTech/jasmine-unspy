@@ -1,7 +1,7 @@
 {
   "name": "jasmine-unspy",
   "version": "1.0.0",
-  "description": "Reset the spy to the original function",
+  "description": "Reset a spy to the original function",
   "repository": "https://github.com/UziTech/jasmine-unspy",
   "main": "src/jasmine-unspy.js",
   "scripts": {
