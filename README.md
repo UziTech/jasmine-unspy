@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/UziTech/jasmine-unspy.svg?branch=master)](https://travis-ci.org/UziTech/jasmine-unspy)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/30yaam69yeg2ka8i/branch/master?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-unspy)
+[![Actions Status](https://github.com/UziTech/jasmine-unspy/workflows/CI/badge.svg)](https://github.com/UziTech/jasmine-unspy/actions)
 
 # Jasmine Unspy
 
