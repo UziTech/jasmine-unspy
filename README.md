@@ -13,6 +13,12 @@ npm install --save-dev jasmine-unspy
 ## Using
 
 ```js
+jasmine.unspy(obj, "method");
+```
+
+### Example:
+
+```js
 // In your spec helper
 require("jasmine-unspy")
 
